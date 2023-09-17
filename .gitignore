@@ -1,3 +1,5 @@
 file1
 file2
-
+sample/
+*.json
+README.md
